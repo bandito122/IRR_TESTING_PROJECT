@@ -207,4 +207,5 @@ public class projet {
     {
         return "nom :" + nom + " | période : "+periode+" | taux d'actualisation : "+rendement;
     }
+
 }
